@@ -7,7 +7,7 @@ Projeto criado com o objetivo simular o site de uma empresa. Projeto de conclus�
 
 
 - Responsividade;
-- Efeito Carrousel;
+- Efeito Carousel;
 - Menu interativo;
 - Interação;
 - Flexbox;
