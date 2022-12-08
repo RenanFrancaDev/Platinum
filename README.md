@@ -3,7 +3,7 @@
 
 ## 💻 Sobre:
 
-Projeto criado com o objetivo simular o site de uma empresa. Projeto de conclusão do curso Curso Web Design Completo: HTML5, CSS3 e JavaScript, da Serfrontend.
+Projeto criado com o objetivo simular o site de uma empresa. Projeto de conclusão do Curso Web Design Completo: HTML5, CSS3 e JavaScript, da Serfrontend.
 
 
 - Responsividade;
